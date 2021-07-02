@@ -1,6 +1,7 @@
-## Salve! Eu sou o Vinicius Lima!
+## Olá! Eu sou o Vinicius!
  <div>
   <a href="https://github.com/viniciuslima06">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslima06&layout=compact&langs_count=16&theme=dracula"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslima06&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
