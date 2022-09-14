@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinicius!
 
-- 🖥️ Hoje trabalho com implantação de novos itens na ferramenta de monitoramento Zabbix com integração ao Grafana e desenvolvimento de scripts e integrações de ferramentas.
+- 🖥️ Hoje estudo desenvolvimento WEB, voltado ao FrontEnd. Em busca de mais conhecimentos para minha recolocação no mercado de trabalho! 
 - 📔 Atualmente estudando JS, Vue.JS e React.JS 
  <div>
   <a href="https://github.com/viniciuslima06">
