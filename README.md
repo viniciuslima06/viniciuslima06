@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Vinicius!
 
-- 🖥️ Hoje estudo desenvolvimento WEB, voltado ao FrontEnd. Em busca de mais conhecimentos para minha recolocação no mercado de trabalho! 
-- 📔 Atualmente estudando JS, Vue.JS e React.JS 
+- 🖥️ Hoje estudo desenvolvimento WEB, voltado ao FrontEnd. Em busca de mais conhecimentos para minha recolocação no mercado de trabalho!
+- 👨🏿‍💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🌐 Técnico em TI
+- 📔 Atualmente estudando HTML/CSS/JS/React JS 
  <div>
   <a href="https://github.com/viniciuslima06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslima06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
